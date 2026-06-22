@@ -87,7 +87,7 @@ We recommend using the following providers and open source tools for finetuning 
 - [Fal](https://fal.ai)
   - [Training](https://fal.ai/models/fal-ai/krea-2-trainer)
   - [Inference](https://fal.ai/models/fal-ai/krea-2/turbo/lora)
-- Kohya (coming soon)
+- [Kohya (musubi tuner)]( https://github.com/kohya-ss/musubi-tuner)
 
 ## FAQ
 
