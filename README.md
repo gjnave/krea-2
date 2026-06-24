@@ -116,7 +116,7 @@ Both model weights are under our [community license](https://www.krea.ai/krea-2-
 ## Citation
 ```
 @misc{krea-2-2026,
-    author={Sangwu Lee, Erwann Millon, Le Zhuo, Matthew Newton, Andrei Filatov, Abhinay Devarinti, Andrei Filatov, Elea Zhong, Avram Djordjevic, Gabriel Menezes, Will Beddow, Titus Ebbecke, Mihai Petrescu, Owen Fahey, Gian Saß, Felix Gil, Victor Perez},
+    author={Sangwu Lee, Erwann Millon, Le Zhuo, Matthew Newton, Andrei Filatov, Abhinay Devarinti, Elea Zhong, Avram Djordjevic, Gabriel Menezes, Will Beddow, Titus Ebbecke, Mihai Petrescu, Owen Fahey, Gian Saß, Felix Gil, Victor Perez},
     title={{Krea 2}},
     year={2026},
     howpublished={\url{https://www.krea.ai/blog/krea-2-technical-report}},
