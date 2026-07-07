@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 .hf_home
 .DS_Store
+
+# GGF standalone app runtime dirs (downloaded weights / generations / logs)
+models/
+outputs/
+logs/
